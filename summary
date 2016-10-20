@@ -1,0 +1,5 @@
+firstly,the object ,surface, can be as a argument, is convenient because it's not a global object.
+secondly, wormy , grid and food class are defined as data object, not binding data to surface, which helps to change the class
+
+thirdly, the main loop  should be writen as a class
+
